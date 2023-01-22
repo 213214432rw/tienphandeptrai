@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Chúc mừng năm mới vui vẻ",
-    introTitle: 'Thắm xinh tươi',
-    introDesc: `Nghe nói cậu có chuyện muốn nói.
-    Hãy trả lời mình đi.
-    Nếu cậu không trả lời.
-    Được rồi mình sẽ thừa nhận điều đó.`,
-    btnIntro: '^^HiHi^^',
-    title: 'Racing boy bốc đầu để cua gái',
-    desc: 'Anh gút boiiii cắt tóc ngắn để yêu em ',
-    btnYes: 'Hay vai l :))',
-    btnNo: 'Xàm l',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Ghi thư tình bằng gì ?',
-    mess: 'Anh ghi bằng tình yêu của anh dành cho em',
-    messDesc: 'Nhưng anh sợ lem, vì nó quá sâu đậm',
-    btnAccept: 'Vậy ghi bằng bút đi',
-    messLink: 'https://www.facebook.com/messages/t/100024192494821' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Lì Xi May Mắn Đầu Năm",
+    introTitle: 'Chúc Mừng Năm Mới',
+    introDesc: `Nghe nói My muốn mình lì xì`,
+    btnIntro: '🥹hihi',
+    title: 'Năm cũ bước qua năm mới',
+    desc: 'HEO CON CHÚC MY SỚM CÓ BỒ ĐỂ NĂM SAU ĐI XEM PHÁO HOA ',
+    btnYes: 'Năm sau rủ Tiến đi chơi :)))',
+    btnNo: 'Okee!!',
+    question: 'Trên thế giới hơn 8 tỉ người tại sao My lại rủ mình',
+    btnReply: 'Gửi Heo con',
+    reply: 'Vì tớ ghéc trẻ con!!!!!!!!',
+    mess: 'Không danh, không lợi đời không nể',
+    messDesc: 'Không tiền, không bạc gái không theo',
+    btnAccept: 'Bấm vô đây để gửi lời chúc đến bạn bè',
+    messLink: 'https://www.facebook.com/messenger_media/?attachment_id=1332367570938133&message_id=mid.%24cAAAB-qPwNDmMCrGxg2F2Wx71gebv&thread_id=100041927202563' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
