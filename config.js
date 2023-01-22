@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chúc mừng năm mới vui vẻ",
+    introTitle: 'Thắm xinh tươi',
+    introDesc: `Nghe nói cậu có chuyện muốn nói
+    Hãy trả lời mình đi
+    Nếu cậu không trả lời
+    Được rồi mình sẽ thừa nhận điều đó`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Racing boy bốc đầu để cua gái',
+    desc: 'Anh gút boiiii cắt tóc ngắn để yêu em ',
+    btnYes: 'Hay vai l :))',
+    btnNo: 'Xàm l',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    reply: 'Ghi thư tình bằng gì ?',
+    mess: 'Anh ghi bằng tình yêu của anh dành cho em',
+    messDesc: 'Nhưng anh sợ lem, vì nó quá sâu đậm',
+    btnAccept: 'Vậy ghi bằng bút đi',
+    messLink: 'https://www.facebook.com/messages/t/100024192494821' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
