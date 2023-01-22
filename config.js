@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Chúc mừng năm mới vui vẻ",
     introTitle: 'Thắm xinh tươi',
-    introDesc: `Nghe nói cậu có chuyện muốn nói
-    Hãy trả lời mình đi
-    Nếu cậu không trả lời
-    Được rồi mình sẽ thừa nhận điều đó`,
+    introDesc: `Nghe nói cậu có chuyện muốn nói.
+    Hãy trả lời mình đi.
+    Nếu cậu không trả lời.
+    Được rồi mình sẽ thừa nhận điều đó.`,
     btnIntro: '^^HiHi^^',
     title: 'Racing boy bốc đầu để cua gái',
     desc: 'Anh gút boiiii cắt tóc ngắn để yêu em ',
